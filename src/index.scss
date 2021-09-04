@@ -1,0 +1,11 @@
+@import "./theme.scss";
+
+.color-primary {
+  color: var(--color-primary);
+}
+.color {
+  color: var(--color);
+}
+body {
+  transition: color 0.25s ease-in;
+}

@@ -1,0 +1,20 @@
+:root {
+  --color-primary: black;
+  --color: pink;
+}
+
+[data-theme-color="pink"] {
+  --color: pink;
+}
+[data-theme-color="orange"] {
+  --color: orange;
+}
+[data-theme-color="yellow"] {
+  --color: yellow;
+}
+[data-theme-color="blue"] {
+  --color: blue;
+}
+[data-theme-color="purple"] {
+  --color: purple;
+}
